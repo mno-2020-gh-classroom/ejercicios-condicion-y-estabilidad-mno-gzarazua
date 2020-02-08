@@ -35,4 +35,4 @@ b. Coloquen en el `README.md` la siguiente línea haciendo los cambios correspon
 
 Prueben su botón dando click en él y resuelvan lo descrito en 3. de arriba para los ejercicios nota. Deben hacer `commit`'s, `add`'s, `pull`'s y `push`'s al repo privado donde se encuentra la nota.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/ejercicios-condicion-y-estabilidad-mno-gzarazua/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/master?urlpath=lab)
